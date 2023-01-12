@@ -1,5 +1,5 @@
 # USAMETAPREM
-<a href="https://ibb.co/VqnMY4z"><img src="https://i.ibb.co/fx6rdwy/1654734215653.jpg" alt="1654734215653" border="0"></a>
+<s://i.ibb.co/fx6rdwy/1654734215653.jpg" alt="1654734215653" border="0"></a>
 <center>
 
 
@@ -53,9 +53,9 @@ $ pip install stdiomask
 
 $ pip install pysocks
 
-$ git clone https://github.com/CodeXz01/USAMETAPREM
+$ git clone https://github.com/Rian-Realy/Fb-BFF
 
-$ cd USAMETAPREM
+$ cd Fb-BFF
 
 $ git pull
 
